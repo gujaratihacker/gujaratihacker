@@ -9,7 +9,7 @@ border: 1px solid rgba(0,255,180,0.25);
 margin-bottom: 25px;
 ">
 
-<h1 style="color:#00ffb4;">Hi 👋, I'm Deepak Singh</h1>
+<h1 style="color:#00ffb4;">Hi 👋, I'm Ankit Rathva aka Gujarati Hacker</h1>
 <h3 style="color:#e0e0e0;">Cybersecurity Researcher • Web Security Enthusiast • Bug Hunter</h3>
 
 </div>
@@ -46,10 +46,10 @@ My work focuses on identifying real-world vulnerabilities, contributing to bug b
 
 <div align="center">
 
-<a href="https://linkedin.com/in/ddeepak-singh"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="mailto:kingdomindian67@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-<a href="https://x.com/SanjayRajput445"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-<a href="https://instagram.com/black_d_a_r_k_official"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="https://linkedin.com/in/ankitrathva"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="mailto:ankitrathva1018@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<!-- <a href="https://x.com/"><img src="https://skillicons.dev/icons?i=twitter" /></a> -->
+<a href="https://instagram.com/ankit_rtv1801"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 
 </div>
 

@@ -19,8 +19,7 @@ margin-bottom: 25px;
 ## 🧑‍💻 About Me
 
 I am a driven MCA student at Parul University with a strong passion for cybersecurity and software development. As an Ethical Hacker and Bug Bounty Hunter, I actively work on identifying real-world security vulnerabilities and understanding how systems can be attacked and secured. My interest in red teaming and security research has helped me build a practical, attacker-mindset approach to problem solving.
-
-Alongside security, I am also a programmer with hands-on experience in HTML, CSS, Java, PHP, SQL, Python, and C. This combination of development and security knowledge allows me to better understand application logic, write secure code, and analyze vulnerabilities at a deeper level. I value continuous learning, ethical responsibility, and collaboration, and I am always eager to grow as a cybersecurity professional and developer.
+Along side security, I am also a programmer with hands-on experience in HTML, CSS, Java, PHP, SQL, Python, and C. This combination of development and security knowledge allows me to better understand application logic, write secure code, and analyze vulnerabilities at a deeper level. I value continuous learning, ethical responsibility, and collaboration, and I am always eager to grow as a cybersecurity professional and developer.
 ---
 
 ## 🎯 Interests
@@ -48,8 +47,8 @@ Alongside security, I am also a programmer with hands-on experience in HTML, CSS
 
 <a href="https://linkedin.com/in/ankitrathva"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="mailto:ankitrathva1018@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-<!-- <a href="https://x.com/"><img src="https://skillicons.dev/icons?i=twitter" /></a> -->
 <a href="https://instagram.com/ankit_rtv1801"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<!-- <a href="https://x.com/"><img src="https://skillicons.dev/icons?i=twitter" /></a> -->
 
 </div>
 
@@ -107,13 +106,13 @@ Alongside security, I am also a programmer with hands-on experience in HTML, CSS
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Singhdeepak442005&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gujaratihacker&show_icons=true&theme=tokyonight"/>
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Singhdeepak442005&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=gujaratihacker&theme=tokyonight"/>
 <br>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Singhdeepak442005&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gujaratihacker&layout=compact&theme=tokyonight"/>
 <br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Singhdeepak442005&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gujaratihacker&theme=tokyo-night"/>
 
 </div>
 

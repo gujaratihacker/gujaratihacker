@@ -18,8 +18,8 @@ margin-bottom: 25px;
 
 ## 🧑‍💻 About Me
 
-I am a driven MCA student at Parul University with a strong passion for cybersecurity and software development. As an Ethical Hacker and Bug Bounty Hunter, I actively work on identifying real-world security vulnerabilities and understanding how systems can be attacked and secured. My interest in red teaming and security research has helped me build a practical, attacker-mindset approach to problem solving.
-Along side security, I am also a programmer with hands-on experience in HTML, CSS, Java, PHP, SQL, Python, and C. This combination of development and security knowledge allows me to better understand application logic, write secure code, and analyze vulnerabilities at a deeper level. I value continuous learning, ethical responsibility, and collaboration, and I am always eager to grow as a cybersecurity professional and developer.
+<p>I am a driven MCA student at Parul University with a strong passion for cybersecurity and software development. As an Ethical Hacker and Bug Bounty Hunter, I actively work on identifying real-world security vulnerabilities and understanding how systems can be attacked and secured. My interest in red teaming and security research has helped me build a practical, attacker-mindset approach to problem solving.
+Along side security, I am also a programmer with hands-on experience in HTML, CSS, Java, PHP, SQL, Python, and C. This combination of development and security knowledge allows me to better understand application logic, write secure code, and analyze vulnerabilities at a deeper level. I value continuous learning, ethical responsibility, and collaboration, and I am always eager to grow as a cybersecurity professional and developer.</p>
 ---
 
 ## 🎯 Interests

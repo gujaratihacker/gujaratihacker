@@ -10,7 +10,7 @@ margin-bottom: 25px;
 ">
 
 <h1 style="color:#00ffb4;">Hi 👋, I'm Ankit Rathva aka Gujarati Hacker</h1>
-<h3 style="color:#e0e0e0;">Cybersecurity Researcher • Web Security Enthusiast • Bug Hunter</h3>
+<h3 style="color:#e0e0e0;">Cybersecurity Researcher • Penetration Tester • Bug Hunter</h3>
 
 </div>
 
@@ -18,9 +18,9 @@ margin-bottom: 25px;
 
 ## 🧑‍💻 About Me
 
-I am a cybersecurity researcher specializing in **web application security, vulnerability assessment, and ethical hacking**.  
-My work focuses on identifying real-world vulnerabilities, contributing to bug bounty programs, and building secure systems for the future.
+I am a driven MCA student at Parul University with a strong passion for cybersecurity and software development. As an Ethical Hacker and Bug Bounty Hunter, I actively work on identifying real-world security vulnerabilities and understanding how systems can be attacked and secured. My interest in red teaming and security research has helped me build a practical, attacker-mindset approach to problem solving.
 
+Alongside security, I am also a programmer with hands-on experience in HTML, CSS, Java, PHP, SQL, Python, and C. This combination of development and security knowledge allows me to better understand application logic, write secure code, and analyze vulnerabilities at a deeper level. I value continuous learning, ethical responsibility, and collaboration, and I am always eager to grow as a cybersecurity professional and developer.
 ---
 
 ## 🎯 Interests
